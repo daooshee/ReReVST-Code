@@ -1,5 +1,9 @@
 ### Consistent Video Style Transfer via Relaxation and Regularization 
 
+Wenjing Wang, Shuai Yang, Jizheng Xu, and Jiaying Liu. "Consistent Video Style Transfer via Relaxation and Regularization", IEEE Trans. on Image Processing (TIP), 2020.
+
+Project Website: https://daooshee.github.io/ReReVST/
+
 
 
 ##### Prerequisites
