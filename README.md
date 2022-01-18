@@ -5,6 +5,10 @@ Wenjing Wang, Shuai Yang, Jizheng Xu, and Jiaying Liu. "Consistent Video Style T
 Project Website: https://daooshee.github.io/ReReVST/
 
 
+[Update 22.01.18] Test content videos and style images can be found in [./data](data)
+
+<hr>
+
 
 ##### Prerequisites
 
