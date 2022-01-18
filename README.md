@@ -5,7 +5,12 @@ Wenjing Wang, Shuai Yang, Jizheng Xu, and Jiaying Liu. "Consistent Video Style T
 Project Website: https://daooshee.github.io/ReReVST/
 
 
-[Update 22.01.18] Test content videos and style images can be found in [./data](data)
+[Update Jan. 2022] Test content videos and style images can be found in [./data](data)
+
+[Update June 2021] Code for multi-style interpolation can be found in [./Multi-style Interpolation](Multi-style%20Interpolation) (but the code is messy).
+
+
+
 
 <hr>
 
