@@ -4,6 +4,7 @@ Wenjing Wang, Shuai Yang, Jizheng Xu, and Jiaying Liu. "Consistent Video Style T
 
 Project Website: https://daooshee.github.io/ReReVST/
 
+[Update Oct. 2022] MPI Sintel optical flow and masks for computing long-term temporal loss: [Baidu Pan](https://pan.baidu.com/s/185pTVUN7RKNSaFMt3xLNWw?pwd=jcai)
 
 [Update Jan. 2022] Test content videos and style images can be found in [./data](data)
 
